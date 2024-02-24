@@ -1,10 +1,11 @@
-import home from "./Component/Home";
+import Home from "./Component/Home";
+// import home from "./Component/Home";
 
 
 function App() {
   return (
     <>
-      <home/>
+      <Home/>
     </>
   );
 }
